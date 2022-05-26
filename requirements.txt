@@ -5,3 +5,4 @@ matplotlib==3.3.3
 geojson_rewind==1.0.0
 lxml==4.6.2
 gspread==4.0.1
+oauth2client 4.1.3
